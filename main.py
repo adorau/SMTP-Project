@@ -7,7 +7,7 @@ from tkinter import messagebox
 
 window = Tk()
 window.withdraw()
-anna_password = "aga210194.."
+anna_password = "***"
 maria_mail = "maria.poczta2@outlook.com"
 letters = ["letter_1.txt", "letter_2.txt", "letter_3.txt"]
 
